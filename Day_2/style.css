@@ -1,0 +1,19 @@
+body {
+  background: rgb(70, 173, 214);
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  min-height: 100vh;
+  font-size: 44px;
+  text-align: center;
+  color: aliceblue;
+}
+.flex-container {
+  transition: 0.9s ease-in-out;
+}
+
+.header{
+
+  margin-top: 70px;
+  margin-bottom: 40px;
+}
