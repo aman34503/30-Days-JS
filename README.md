@@ -6,3 +6,4 @@ This Projects is a part of 30 days Js Challenge
 3. Color Changers
 4. Counter Application with reactJs
 5. Tic-tae-toe Game with Reactjs( Reactstrap, Toastify)
+6. Javascript Quiz App with Timer
